@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: #f5f5f5;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.profesional {
+    margin-bottom: 15px;
+}
